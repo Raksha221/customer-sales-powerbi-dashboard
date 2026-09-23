@@ -173,3 +173,10 @@ Ecommerce_Customer_Sales_Analytics
 ├── reports
 │
 └── README.md
+
+📂 Dataset
+
+The project uses an e-commerce transactional dataset for analysis.
+
+The raw dataset is not included in this repository due to its large file size.
+The notebooks contain the complete data cleaning, transformation, and analysis workflow.
